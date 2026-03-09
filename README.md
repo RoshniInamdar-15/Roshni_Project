@@ -1,2 +1,2 @@
-# Roshni_Project
-The Hotel Booking Application, developed using ReactJS and Spring Boot, provides role-based access for admins and users. Admins can manage rooms (add, update, delete) and oversee bookings, including cancellations. Users can book rooms and view their reservations. It utilizes Redux, Axios, and MySQL for efficient and secure operation.
+# Hotel_Booking_Application
+Developed a full-stack Hotel Booking Application enabling users to explore hotels, check room availability, and make online reservations. Implemented using ReactJS for frontend, Spring Boot for backend, and MySQL for database management.
